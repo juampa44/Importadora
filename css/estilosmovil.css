@@ -1,0 +1,243 @@
+/*propiedades dispositivo movil*/ 
+@media screen and (max-width: 1000px) {
+	/*pagina*/
+	.dip {
+		display: none;
+	}
+	.contenedor{
+		background-image: url(#);
+		position: relative;
+	}
+	.principal {
+		position: fixed;
+		z-index: 2;
+		background: #fff;
+		height: 35%;
+	} 
+	.secundario {
+		position: absolute;
+		width: 100%;
+		z-index: 1;
+		margin-top: 60%;
+	}
+	.main {
+		width: 100%;
+	}
+	.sec3 {
+	display: block;
+	padding: 0px;
+	}
+	.sec4 {
+		position: relative;
+		margin-left: 2%;
+	}
+	.log2 {
+		display: none;
+	}
+	.log1 {
+		width: 80%;
+		display: block;
+		margin: auto;
+	}
+	.imagen {
+		position: fixed;
+		display: block;
+		width: 100%;
+		margin-top: 28%;
+		height: 550px;
+	}
+	aside {
+		width: 100%;
+		float: left;
+		padding: 20px;
+	}
+	article{
+		width: 100%;
+		}
+	form {
+		width: 100%;
+		margin: 0px;
+	}
+	.main .articles {
+		width: 100%
+	}
+	header {
+		margin-top: 0px;
+	}
+	.main2 .articles2{
+	width: 100%;
+	margin-top: 20px;
+	float: left;
+	}
+	.main2 .articles2 article {
+	display: block;
+	padding: 0px 20px;
+	margin-bottom: 20px;
+	}
+	/*pagina completa*/
+	.pagina {
+		display: block;
+		position: fixed;
+		left: 30%;
+		margin: 40px 0px;
+		
+	}
+	.pagina a {
+		padding: 5px 29px;
+		background: #152254;
+		text-decoration: none;
+		color: #fff;
+		-webkit-transition:all 500ms ease;
+	    -o-transition:all 500ms ease;
+	    transition:all 500ms ease;
+	}
+	.pagina a:hover{
+		background: #000;
+		padding: 5px 29px 10px 29px;
+	}
+	/*barra social*/
+	.social {
+		position: fixed;
+		left: 24%; /* Establecemos la barra en la izquierda */
+		top: 0px; /* Bajamos la barra 200px de arriba a abajo */
+		z-index: 2000; /* Utilizamos la propiedad z-index para que no se superponga algún otro elemento como sliders, galerías, etc */
+	}
+	/*botones*/
+	.movil1 {
+		display: block;
+		width: 100%;
+	}
+	.movil2 {
+		width: 100%;
+		padding: 0px 0px 0px 40%;
+		display: block;
+		margin: auto;
+	}
+	.movil2 ul {
+	list-style:none;
+		}
+	.movil2 ul li {
+		padding: 20px 0px;
+		display: block;
+		margin: auto;
+	}
+	.movil2 ul li a span {
+	margin-right:10px;
+	}
+	/*loggin*/
+	.log {
+		display:none;
+	}
+	.menu_log {
+		float: right;
+		display:block;
+		width:20%;
+		top:0;
+		background:#023859;
+	}
+	.menu_log .log_menu{
+		display: block;
+		padding: 10px;
+		color: #fff;
+		overflow: hidden;
+		font-size: 25px;
+		font-weight: bold;
+		text-decoration: none;
+	}
+	.menu_log span {
+		float: right;
+		font-size: 40px;
+	}
+	/*contactos*/
+	.espacio {
+		display: none;
+	}
+	/*menu*/
+	.menu_bar {
+		display:block;
+		width:80%;
+		top:0;
+		background:#023859;
+		padding: 0;
+	}
+	.trasparente {
+		background: rgba(2,56,89,0.86);
+	}
+	header nav ul li:hover {
+		background: rgba(117,172,236,0.4);
+	}
+	header nav ul li .children {
+		background: rgba(1,24,38,0.6);
+	}
+	.menu_bar .bt-menu {
+		display: block;
+		padding: 10px;
+		color: #fff;
+		overflow: hidden;
+		font-size: 25px;
+		font-weight: bold;
+		text-decoration: none;
+	}
+	.menu_bar span {
+		float: right;
+		font-size: 40px;
+		margin: 0px 20px 0px 0px;
+	}
+	header nav {
+		display: block;
+		width: 80%;
+		height: calc(100% - 80px);
+		position: fixed;
+		right:100%;
+		margin: 0;
+		overflow: scroll;
+		padding: 0px;
+	}
+	header nav ul li {
+		display: block;
+		border-bottom:1px solid rgba(255,255,255,.5);
+	}
+	header nav ul li a {
+		display: block;
+	}
+	header nav ul li:hover .children {
+		display: none;
+	}
+	header nav ul li .children {
+		width: 100%;
+		position: relative;
+	}
+	header nav ul li .children li a {
+		margin-left:20px;
+	}
+	header nav ul li .caret {
+		float: right;
+	}
+}
+@media screen and (max-width: 1000px) and (min-width: 600px) {
+	.log1 {
+		display: none;
+	}
+	.principal {
+		position: fixed;
+		z-index: 2;
+		background: #fff;
+		height: 10%;
+	} 
+	.secundario {
+		position: absolute;
+		width: 100%;
+		z-index: 1;
+		margin-top: 10%;
+	}
+	.pagina {
+		display: none;
+	}
+	.imagen {
+		position: fixed;
+		display: block;
+		width: 100%;
+		margin-top: 3%;
+		height: 550px;
+	}
+}

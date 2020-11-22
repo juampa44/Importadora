@@ -1,0 +1,21 @@
+table {
+	border:0px;
+	border-collapse: collapse;
+}
+table td {
+	border:2px;
+}
+table tr:hover {
+	background: #FFC227;
+}
+table td:hover {
+	background: #78A9FF;
+	color: #fff;
+}
+.colorftd {
+	color: #000099;
+}
+.colortd{
+	background: #C7C6B7;
+	width: 5px;
+}

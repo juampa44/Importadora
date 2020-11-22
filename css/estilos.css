@@ -1,0 +1,342 @@
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+* {
+	padding:0;
+	margin:0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+}
+a {
+	text-decoration: none;
+	color: #000;
+}
+.listado {
+	margin: 0 0 0 40px;
+}
+.efecto {
+	/*text-shadow: -2px 0 #fff, 2px 0 #fff, 0 2px #fff, 0 -2px #fff;*/
+	 text-shadow: 1px 1px 2px white, 0 0 25px white, 0 0 5px #FBA919;
+  	color: #000;
+}
+.movil1 {
+	display: none;
+}
+.contenedor{	
+	background-image:url('#'), 
+	linear-gradient(rgb(255, 255, 255), rgb(100, 100, 100));
+	position: relative;
+}
+.imagen {
+	position: fixed;
+	display: block;
+	width: 100%;
+	margin-top: 8%;
+}
+.image {
+	width: 100%;
+	height: 550px;
+}
+.principal {
+	position: fixed;
+	background: #fff;
+	width: 100%;
+	z-index: 3;
+	} 
+.secundario {
+	position: absolute;
+	width: 100%;
+	margin-top: 17.5%;
+	z-index: 2;
+}
+.log1 {
+	width: 20%;
+}
+.log2 {
+	width: 50%;
+	height: 150px;
+	margin: 0px 0px 0px 300px;
+}
+header .main footer{
+	width: 90%;
+	max-width: 1000px;
+	margin: 20px auto;
+}
+.main .articles {
+	width: 58.5%;
+	margin: 1% 0 3% 0;
+	float: left;
+}
+.main .articles article {
+	padding: 20px;
+	margin-bottom: 10px;
+}
+.main2 .articles2{
+	width: 100%;
+	margin: 1% 0 0 0;
+	float: left;
+}
+.main2 .articles2 article {
+	padding: 5px 100px;
+	margin-bottom: 10px;
+}
+.sec2{
+ margin-top: 1.5%;
+}
+.sec3 {
+	display: block;
+	padding: 30px 0px 0px 150px;
+}
+.sec4 {
+	margin-left: 60%;
+	position: fixed;
+}
+.titulo{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+.subtitulo {
+	font-weight: bold;
+}
+.texto {
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+}
+aside {
+	width: 40%;
+	float: left;
+	padding: 20px 100px 10px 0px;
+	box-sizing: border-box;
+}
+footer {
+	background: #000;
+	color: #fff;
+	clear: both;
+	padding: 10px 0px;
+	text-align: center;
+}
+footer a {
+	text-decoration: none;
+	color: #fff;
+	font-weight: bold;
+}
+/*----------------------bontones------------------------------*/
+.log {
+	position: absolute;
+	top: 55px;
+	left: 65%;
+}
+.link{
+	text-decoration: none;
+	color: #000;
+}
+.menu_log{
+	display: none;
+}
+header ul {
+	list-style:none;
+}
+header ul li {
+	display:inline-block;
+	position: relative;
+}
+/*header ul li:hover {
+	background:#75ACEC;
+}*/
+header ul li a {
+	color:#fff;
+	display:block;
+	text-decoration:none;
+	padding: 5px;
+}
+header ul li a span {
+	margin-right:10px;
+}
+/*------------------------barra social-------------------*/
+.social {
+	position: fixed; /* Hacemos que la posición en pantalla sea fija para que siempre se muestre en pantalla*/
+	left: 42%; /* Establecemos la barra en la izquierda */
+	top: 0px; /* Bajamos la barra 200px de arriba a abajo */
+	z-index: 2000; /* Utilizamos la propiedad z-index para que no se superponga algún otro elemento como sliders, galerías, etc */
+}
+.social ul {
+	list-style: none;
+}
+.social ul li {
+	float: left;/*lo hace horizontal*/
+}
+.social ul li a {
+	display: inline-block;
+	color:#fff;
+	background: #000;
+	padding: 10px 15px;
+	text-decoration: none;
+	-webkit-transition:all 500ms ease;
+	-o-transition:all 500ms ease;
+	transition:all 500ms ease; /* Establecemos una transición a todas las propiedades */
+}
+.social ul li a:hover {
+	background: #000; /* Cambiamos el fondo cuando el usuario pase el mouse */
+	padding: 20px 15px; /* Hacemos mas grande el espacio cuando el usuario pase el mouse */
+}
+.social ul li .icon-facebook {background:#3b5998;} /* Establecemos los colores de cada red social, aprovechando su class */
+.social ul li .icon-whatsapp {background:#34af23;}
+.social ul li .icon-twitter {background: #00abf0;}
+.social ul li .icon-google {background: #d95232;}
+.social ul li .icon-skype {background: #00abf0;}
+.social ul li .icon-mail {background: #666666;}
+/*---------------------menu-----------------------*/
+.menu_bar {
+	display:none;
+}
+header {
+	width: 100%;
+}
+header nav {
+	background: linear-gradient(rgba(2,56,89,0), rgba(2,56,89,1));
+	box-shadow: 0 10px 10px;
+	z-index:1000;
+	/*max-width: 1000px; ancho del menu*/
+	width:100%;
+	/*margin:20px auto;*/
+	padding: 0px 0px 0px 13%;
+}
+header nav ul {
+	list-style:none;
+}
+header nav ul li {
+	display:inline-block;
+	position: relative;
+}
+header nav ul li:hover {
+	background: linear-gradient(rgba(117,172,236,0), rgba(117,172,236,0.4), rgba(117,172,236,0));
+}
+header nav ul li a {
+	color:#fff;
+	display:block;
+	text-decoration:none;
+	padding: 20px;
+}
+header nav ul li a span {
+	margin-right:10px;
+}
+header nav ul li:hover .children {
+	display:block;
+}
+header nav ul li .children {
+	display: none;
+	background: rgba(1,24,38,0.86);
+	position: absolute;
+	width: 150%;
+	z-index:1000;
+}
+header nav ul li .children li {
+	display:block;
+	overflow: hidden;
+	border-bottom: 1px solid rgba(255,255,255,.5);
+}
+header nav ul li .children li a {
+	display: block;
+}
+header nav ul li .children li a span {
+	float: left;
+	position: relative;
+	top:3px;
+	margin-right:10px;
+	margin-left:0px;
+}
+header nav ul li .caret {
+	position: relative;
+	top:3px;
+	margin-left:10px;
+	margin-right:0px;
+}
+.pagina {
+	display: none;
+}
+/*---------------------marcado de link-------------------*/
+.hvr-underline-from-center {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  overflow: hidden;
+}
+.hvr-underline-from-center:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 50%;
+  right: 50%;
+  bottom: 0;
+  background: #ff8000;
+  height: 4px;
+  -webkit-transition-property: left, right;
+  transition-property: left, right;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-underline-from-center:hover:before, .hvr-underline-from-center:focus:before, .hvr-underline-from-center:active:before {
+  left: 0;
+  right: 0;
+}
+/*------------------Float-----------------------------*/
+.hvr-float {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-float:hover, .hvr-float:focus, .hvr-float:active {
+  -webkit-transform: translateY(-8px);
+  transform: translateY(-8px);
+}
+@media screen and (min-width: 1500px) {
+	header nav {
+	padding: 0px 0px 0px 21%;
+	}
+	.log1 {
+	width: 15%;
+	}
+	.log2 {
+	width: 50%;
+	height: 140px;
+	margin: 0px 0px 0px 450px;
+	}
+	.imagen {
+	position: fixed;
+	display: block;
+	width: 100%;
+	margin-top: 6%;
+	}
+	.secundario {
+	position: absolute;
+	width: 100%;
+	margin-top: 13%;
+	z-index: 2;
+	}
+}

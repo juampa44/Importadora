@@ -1,0 +1,13 @@
+.busqueda {
+	background:#ffffff;
+	color:#000;
+}
+.cdr {
+	padding:5px;
+	width:220px;
+	border-radius:10px 0px 0px 10px;
+}
+.tab {
+	background:#CCC;
+	border-radius:10px 10px 10px 10px;
+}

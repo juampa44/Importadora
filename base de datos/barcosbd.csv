@@ -1,0 +1,294 @@
+1,Altona,300,Delaware
+2,Avenel iaa,140,Delaware
+3,Avenel-rahway,160,Delaware
+4,Baltimore,125,Delaware
+5,Barnegat,225,Delaware
+6,Boston,300,Delaware
+7,bridgeport,90,Delaware
+8,Buckanom-WV,550,Delaware
+9,Buffalo,500,Delaware
+10,Burlington-VT,600,Delaware
+11,Central New Jersey,140,Delaware
+12,Culpeper,225,Delaware
+13,Culpeper/Virginia,270,Delaware
+14,Pittsburg East,350,Delaware
+15,Chalfton/Philadelphia,140,Delaware
+16,Suffolk/VA,525,Delaware
+17,Boston/Shirley,330,Delaware
+18,Erie,500,Delaware
+19,hartford sur iaa,225,Delaware
+20,Laurel,125,Delaware
+21,Long Island,275,Delaware
+22,Manchester,360,Delaware
+23,Metro DC,150,Delaware
+24,New Castle,50,Delaware
+25,Northern New Jersey,140,Delaware
+26,Northern Virginia,225,Delaware
+27,Philadelphia,100,Delaware
+28,Pittsburg,320,Delaware
+29,Portland -saco,520,Delaware
+30,Portland-gorham,520,Delaware
+31,Pulasky,450,Delaware
+32,rosedale,125,Delaware
+33,Shady Spring,550,Delaware
+34,Southern New Jersey,90,Delaware
+35,sufolk,450,Delaware
+36,Taunton,310,Delaware
+37,Tidewater,300,Delaware
+38,york spring,160,Delaware
+39,Albany,275,Delaware
+40,Baltimote-white M,200,Delaware
+41,Chambersburg,200,Delaware
+42,Charleston-WV,550,Delaware
+43,Chicago-IL,550,Delaware
+44,Danville *,425,Delaware
+45,Glassboro East,90,Delaware
+46,Glassboro West,90,Delaware
+47,Harrisburg,145,Delaware
+48,Hartford,225,Delaware
+49,lyman,460,Delaware
+50,Newburg,200,Delaware
+51,North Boston,300,Delaware
+52,Orono-MN,700,Delaware
+53,Philadelphia-chalfton,110,Delaware
+54,pittsburf north,320,Delaware
+55,Pittsburg  South,320,Delaware
+56,Richmond,225,Delaware
+57,Richmond east,225,Delaware
+58,Rochester,400,Delaware
+59,Rochester-jamestown,625,Delaware
+60,Salisbury,200,Delaware
+61,Scranton,175,Delaware
+62,Somerville,140,Delaware
+63,South Boston,290,Delaware
+64,Syracuse,300,Delaware
+65,Trenton,125,Delaware
+66,"Washington, DC",150,Delaware
+67,West Warren,320,Delaware
+68,West warren-New Or.,600,Delaware
+69,West warren-rutland,650,Delaware
+70,York Haven,140,Delaware
+71,Albany-rutland,650,Delaware
+72,Lyman - Orono,700,Delaware
+73,Lyman- gray maine,520,Delaware
+74,seaford-DE,170,Delaware
+75,Webster-NH,450,Delaware
+76,Hampton,325,Delaware
+77,Tampa east,145,Lauderdale
+78,Tampa sur,145,Lauderdale
+79,Orlando,145,Lauderdale
+80,Ft. Pierce,150,Lauderdale
+81,Ft. Pierce IAA,150,Lauderdale
+82,Miami Central,50,Lauderdale
+83,Miami North,50,Lauderdale
+84,Miami IAA,50,Lauderdale
+85,Miami Opalocka,50,Lauderdale
+86,Miami Sur,60,Lauderdale
+87,West Palm Beach,100,Lauderdale
+88,Tallahasse,250,Lauderdale
+89,Ocala,200,Lauderdale
+90,Hialeah,105,Lauderdale
+91,Jacksonville (EAST/WEST),200,Lauderdale
+92,Atlanta east,275,Lauderdale
+93,Atlanta west,275,Lauderdale
+94,Atlanta sur IAA,275,Lauderdale
+95,Atlanta IAA,275,Lauderdale
+96,Atlanta eas IAA,275,Lauderdale
+97,Atlanta north IAA,275,Lauderdale
+98,Detroit,700,Lauderdale
+99,Grand Rapids,750,Lauderdale
+100,Flint,900,Lauderdale
+101,Lansing,750,Lauderdale
+102,Fargo IAA,1350,Lauderdale
+103,"China Grove, NC",275,Lauderdale
+104,"Raleigh, NC",275,Lauderdale
+105,Charlotte -NC,275,Lauderdale
+106,Greensboro-NC,325,Lauderdale
+107,Wilmington -NC,450,Lauderdale
+108,Concord- NC,275,Lauderdale
+109,Mebane-NC,330,Lauderdale
+110,Savanna GA,275,Lauderdale
+111,Tifton -GA,275,Lauderdale
+112,Macon-GA,330,Lauderdale
+113,Ft. Myers,185,Lauderdale
+114,Pensacola,275,Lauderdale
+115,Ft. Lauderdale,90,Lauderdale
+116,Greer- SC,275,Lauderdale
+117,Ashville,450,Lauderdale
+118,Greenville-SC,275,Lauderdale
+119,"Columbia, SC",275,Lauderdale
+120,Punta Gorda,185,Lauderdale
+121,ClearWater,135,Lauderdale
+122,Charleston-SC,275,Lauderdale
+123,Jackson,450,Lauderdale
+124,Gulf Coast,450,Lauderdale
+125,Grenada,475,Lauderdale
+126,Boise,1050,Lauderdale
+127,Wetern,1050,Lauderdale
+128,Lousville,650,Lauderdale
+129,Walton,650,Lauderdale
+130,Ashland,650,Lauderdale
+131,Bowling,650,Lauderdale
+132,Paducah,650,Lauderdale
+133,Tibeland,750,Lauderdale
+134,Cleveland,750,Lauderdale
+135,Columbus,750,Lauderdale
+136,Dayton,750,Lauderdale
+137,Akron Canton,750,Lauderdale
+138,Cincinati,750,Lauderdale
+139,Huntsville,500,Lauderdale
+140,Mobil,400,Lauderdale
+141,Mongotmery,450,Lauderdale
+142,Birmingham IAA,500,Lauderdale
+143,Dothan,400,Lauderdale
+144,Tanner,500,Lauderdale
+145,Elbridge,700,Lauderdale
+146,De Moines,750,Lauderdale
+147,Davenport,700,Lauderdale
+148,Lincoln,800,Lauderdale
+149,Hartford City,700,Lauderdale
+150,South Bend,700,Lauderdale
+151,Fort Wayne,650,Lauderdale
+152,Hammond,650,Lauderdale
+153,Nashville,500,Lauderdale
+154,Nashville IAA,500,Lauderdale
+155,Chatanoga,500,Lauderdale
+156,Knoxville,500,Lauderdale
+157,Mineapolis,750,Lauderdale
+158,ST. Paul,750,Lauderdale
+159,ST. Cloud,750,Lauderdale
+160,Chicago,700,Lauderdale
+161,Peoria,700,Lauderdale
+162,ST. Luois,700,Lauderdale
+163,Baltlet,700,Lauderdale
+164,Wheeling,700,Lauderdale
+165,Licoln,700,Lauderdale
+166,Columbia,700,Lauderdale
+167,Milwaukee,750,Lauderdale
+168,Madison,750,Lauderdale
+169,Birmingham,500,Lauderdale
+170,Omaha Branch Nebraska,800,Lauderdale
+171,Chalson/Chaflon/Philadelphia,140,Lauderdale
+172,Davenport/Iowa,700,Lauderdale
+173,Akron/Canton Ohio,750,Lauderdale
+174,Sabana,275,Lauderdale
+175,Gran Rapids/Michigan,750,Lauderdale
+176,Desmoines/Ohio,750,Lauderdale
+177,Filint/ ML,900,Lauderdale
+178,Chatnoga/TN,500,Lauderdale
+179,Ionia ,1000,Lauderdale
+180,Denver,700,Lauderdale
+181,Littleton,700,Lauderdale
+182,Orlando Centra,200,Lauderdale
+183,Fort Lauderdale,100,Lauderdale
+184,Fort Myers,200,Lauderdale
+185,Bolingbrook Arena,700,Lauderdale
+186,Indianapolis,650,Lauderdale
+187,Clarksville Louisville,650,Lauderdale
+188,Carleton Detroit East,750,Lauderdale
+189,Maple Grove Mineapo  $,750,Lauderdale
+190,Shakopee Norther Sta $,750,Lauderdale
+191,Hattiesburgh,500,Lauderdale
+192,Omaha,800,Lauderdale
+193,Hamilton Cincinati,750,Lauderdale
+194,Grove City,750,Lauderdale
+195,Mt Juliet Nashville,500,Lauderdale
+196,Caledonia Milwaukee,700,Lauderdale
+197,Casper,1050,Lauderdale
+198,Birmingham Moody,500,Lauderdale
+199,Fountain,700,Lauderdale
+200,Sarasota Bradenton,200,Lauderdale
+201,Indianapolis Plainfield,650,Lauderdale
+202,Des Moines Grimes,750,Lauderdale
+203,Lexington,650,Lauderdale
+204,Lansing Dimondale,800,Lauderdale
+205,Mineapolis Dayton,750,Lauderdale
+206,Fargo West Fargo,1050,Lauderdale
+207,Cincinnato /Franklin Dayton,750,Lauderdale
+208,Cleveland Northfield,750,Lauderdale
+209,Queen City Cincinnati,750,Lauderdale
+210,Sioux Falls,1050,Lauderdale
+211,Nashville Old Hickory,500,Lauderdale
+212,East Tennesse Fall Branch,500,Lauderdale
+213,Knoxville Lenoir City,500,Lauderdale
+214,Memphis,500,Lauderdale
+215,Winconsi,700,Lauderdale
+216,Copart B. Rouge,240,Houston
+217,IAA B. Rouge,240,Houston
+218,New Orleans,255,Houston
+219,Baton Roug,240,Houston
+220,Sheveport,205,Houston
+221,Lafayette,210,Houston
+222,Little Rock,225,Houston
+223,Faytteville,555,Houston
+224,West Memphis,480,Houston
+225,Phoenix Houston,655,Houston
+226,Tucson IAA,725,Houston
+227,Albuquerque,605,Houston
+228,Albuquerque IAA,605,Houston
+229,Abilene Copart,310,Houston
+230,Abilene IAA,310,Houston
+231,Amarillo,425,Houston
+232,Austin,185,Houston
+233,Corpus Christie,220,Houston
+234,Dallas,200,Houston
+235,El Paso,365,Houston
+236,Ft. Worth,230,Houston
+237,Houston,75,Houston
+238,Longview,195,Houston
+239,Lufkin,165,Houston
+240,Mcallen,225,Houston
+241,Permian Basin,455,Houston
+242,San Antonio,185,Houston
+243,Beaumont,215,Houston
+244,Lubbock,425,Houston
+245,Kansas City,555,Houston
+246,Wichita,455,Houston
+247,Tulsa,425,Houston
+248,Oklahoma City,405,Houston
+249,St. Louis,555,Houston
+250,Springfield,555,Houston
+251,Sikeston,555,Houston
+252,Bakersfield,225,California
+253,Fresno,265,California
+254,Fresno IAA,265,California
+255,Hayward,250,California
+256,Fremont IAA,250,California
+257,Los Angeles,90,California
+258,Martinez,265,California
+259,R. Cucamonga,90,California
+260,Sacramento,265,California
+261,S. Sacramento,265,California
+262,S. Bernardino,90,California
+263,San Diego,165,California
+264,San Jose,250,California
+265,Vallejos,270,California
+266,Van Nuys,100,California
+267,High Desert,275,California
+268,Fontana IAA,100,California
+269,Anaheim IAA,100,California
+270,N.Hollywood,100,California
+271,East Bay,275,California
+272,Phoenix California,265,California
+273,Tucson,380,California
+274,Las Vegas,270,California
+275,Reno,415,California
+276,Portland,480,California
+277,Eugene IAA,600,California
+278,Eugene,600,California
+279,Seatle,540,California
+280,Pasco,675,California
+281,Graham,525,California
+282,Spokane,665,California
+283,Expocane,800,California
+284,Oregon,570,California
+285,Misoula IAA,720,California
+286,Billings,825,California
+287,Helena,640,California
+288,Saltlake City,400,California
+289,Honolulu,1500,California
+290,Hilo,1600,California
+291,Oahu,1500,California
+292,Maui,1600,California
+293,Kona,1700,California
+294,Kauai,2050,California

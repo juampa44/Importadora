@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.zonaMuestra{
+	width: 600px;
+}
+.zonaMuestra img{
+	width: 100%;
+	border-radius: 2.5%;
+}
+.imagenes{
+	width: 640px;
+}
+.imagenes img{
+	width: 60px;
+	padding: 2px; 
+	float: left;
+	border-radius: 20%;
+}
+@media screen and (max-width: 600px) {
+	*{
+	margin: 0;
+	padding: 0;
+	}
+	.zonaMuestra{
+		width: 100%;
+	}
+	.zonaMuestra img{
+		width: 100%;
+		border-radius: 2.5%;
+	}
+	.imagenes{
+		width: 100%;
+	}
+	.imagenes img{
+		width: 60px;
+		padding: 2px; 
+		float: left;
+		border-radius: 20%;
+	}	
+	.sec2 {
+		margin-left: 10px;
+	}
+}

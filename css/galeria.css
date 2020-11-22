@@ -1,0 +1,60 @@
+h2 {
+  font-size: 20px;
+  text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px darkblue;
+  color: #fff;
+}
+.galeria {
+  margin-left: 20px;
+}
+.precio {
+  font-weight: bold;
+  font-size: 18px;
+}
+#ag {
+  color: #FBA919;
+  font-weight: bold;
+  font-size: 20px;
+}
+.margen {
+  margin-left: 20px;
+}
+.section__titulo {
+  font-size: 40px;
+  text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px darkblue;
+  color: #FBA919;
+}
+/*-----------------Estilos de galeria-----------------*/
+.columna {
+  position: relative;
+  margin-bottom: 30px;
+}
+.descripcion {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #fff;
+  background: rgba(0,0,0,0.5);
+  width: 60%;
+  height: 100%;
+  padding: 5px;
+  text-align: left;
+}
+.img {
+  width: 100%;
+}
+/*------------------Estilos responsive------------------*/
+@media(min-width:480px) {
+  .vehiculos {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -90px;
+    flex-wrap: wrap;
+    margin-top: 0;
+  }
+  .section__titulo {
+    width: 100%;
+  }
+  .columna {
+    width: 49%;
+  }
+}

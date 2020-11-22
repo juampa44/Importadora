@@ -1,0 +1,14 @@
+table {
+	border:0px solid #000;
+	border-collapse: collapse;
+}
+table td {
+	border:0px solid #000;
+}
+table tr:hover {
+	background: #ccc;
+}
+table td:hover {
+	background: #000;
+	color: #fff;
+}
